@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: myapi
+Version: 0.0.1
+Summary: ConnectME
+Home-page: https://gfursin.github.io/connectme
+Author: Grigori Fursin
+Author-email: gfursin@gmail.com
+License: Apache 2.0
+Description: # ConnectME
+        
+        Prototyping the ConnectME library
+        
+        
+        
+        ## License
+        ConnectME is licensed under the Apache License 2.0. 
+        
+        See [LICENSE](https://github.com/gfursin/connectme/blob/master/LICENSE) for more information.
+        
+        ## Support
+        
+        [Create a GitHub issue](https://github.com/gfursin/connectme/issues/new/choose)
+        
+Keywords: connectme
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python
+Classifier: Intended Audience :: Developers
+Description-Content-Type: text/markdown

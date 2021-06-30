@@ -1,0 +1,5 @@
+[console_scripts]
+cm = connectme.cli:run
+connectme = connectme.cli:run
+my = connectme.cli:run
+
